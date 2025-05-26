@@ -67,6 +67,7 @@
   from sklearn.model_selection import train_test_split
   from sklearn.linear_model import LinearRegression
   import yfinance as yf
+  ```
 
   ### 🔹 Project 2: Business Forecast (Time Series Prediction)
 - **Description:**  
@@ -79,6 +80,7 @@
   import matplotlib.pyplot as plt
   from statsmodels.tsa.arima.model import ARIMA
   from sklearn.metrics import mean_squared_error
+  ```
   
  ---
 
