@@ -1,6 +1,3 @@
-# Micro-Projects
-All Micro-Projects create during of college.
-
 # Micro-Projects Overview (Semester-Wise)
 
 ## 📘 Semester 1 – Subject: BCP (Basic C Programming)
