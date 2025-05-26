@@ -56,6 +56,32 @@
 
 ---
 
+## 🤖 Semester 5 – Subject: Machine Learning
+### 🔹 Project 1: Stock Price Prediction
+- **Description:** Predicts stock prices using historical data and linear regression.
+- **Libraries Used:**
+  ```python
+  import pandas as pd
+  import numpy as np
+  import matplotlib.pyplot as plt
+  from sklearn.model_selection import train_test_split
+  from sklearn.linear_model import LinearRegression
+  import yfinance as yf
+
+  ### 🔹 Project 2: Business Forecast (Time Series Prediction)
+- **Description:**  
+  A machine learning project to forecast future business metrics using time-series data and ARIMA model. It analyzes historical business data to make predictions and visualizes the results.
+
+- **Tech Stack / Libraries Used:**
+  ```python
+  import pandas as pd
+  import numpy as np
+  import matplotlib.pyplot as plt
+  from statsmodels.tsa.arima.model import ARIMA
+  from sklearn.metrics import mean_squared_error
+  
+ ---
+
 ## 🔌 Semester 6 – Subject: IoT
 - **Project Name:** Digital Clock with Temperature & Humidity Sensor
 - **Description:** Displays real-time clock along with temperature and humidity readings.
