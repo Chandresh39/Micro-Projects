@@ -18,7 +18,7 @@
 - **Features:**
   - CRUD operations
   - File handling for data persistence
-- **Challenge:** Boring af, but learned the importance of Object-Oriented Programming 😵
+- **Challenge:** Boring, but learned the importance of Object-Oriented Programming 😵
 
 ---
 
@@ -98,4 +98,4 @@
 
 ---
 
-> 🧠 **Note:** Each project helped me level up in coding logic, problem-solving, and using real tech in practical ways—even when the subject was boring af 😂
+> 🧠 **Note:** Each project helped me level up in coding logic, problem-solving, and using real tech in practical ways—even when the subject was boring😂
