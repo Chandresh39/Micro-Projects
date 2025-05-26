@@ -69,7 +69,7 @@
   import yfinance as yf
   ```
 
-  ### 🔹 Project 2: Business Forecast (Time Series Prediction)
+### 🔹 Project 2: Business Forecast (Time Series Prediction)
 - **Description:**  
   A machine learning project to forecast future business metrics using time-series data and ARIMA model. It analyzes historical business data to make predictions and visualizes the results.
 
